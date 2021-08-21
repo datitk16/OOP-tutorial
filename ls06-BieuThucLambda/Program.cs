@@ -9,13 +9,15 @@
 //    // các câu lệnh
 //     // Sử dụng return nếu có giá trị trả về
 // }
+
+using BieuThucLambda;
 namespace ls06_BieuThucLambda
 {
     class Program
     {
         static void Main(string[] args)
         {
-           
+            Lambda.TestBieuThucLambda();
         }
     }
 }

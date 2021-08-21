@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls06-BieuThucLambda\bin\Debug\net5.0\ls06-BieuThucLambda.exe
+D:\DotNet\Git-project\ls06-BieuThucLambda\bin\Debug\net5.0\ls06-BieuThucLambda.deps.json
+D:\DotNet\Git-project\ls06-BieuThucLambda\bin\Debug\net5.0\ls06-BieuThucLambda.runtimeconfig.json
+D:\DotNet\Git-project\ls06-BieuThucLambda\bin\Debug\net5.0\ls06-BieuThucLambda.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls06-BieuThucLambda\bin\Debug\net5.0\ls06-BieuThucLambda.dll
+D:\DotNet\Git-project\ls06-BieuThucLambda\bin\Debug\net5.0\ref\ls06-BieuThucLambda.dll
+D:\DotNet\Git-project\ls06-BieuThucLambda\bin\Debug\net5.0\ls06-BieuThucLambda.pdb
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.AssemblyInfo.cs
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.dll
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ref\ls06-BieuThucLambda.dll
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.pdb
+D:\DotNet\Git-project\ls06-BieuThucLambda\obj\Debug\net5.0\ls06-BieuThucLambda.genruntimeconfig.cache
