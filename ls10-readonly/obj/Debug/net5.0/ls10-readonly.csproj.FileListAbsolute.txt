@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls10-readonly\bin\Debug\net5.0\ls10-readonly.exe
+D:\DotNet\Git-project\ls10-readonly\bin\Debug\net5.0\ls10-readonly.deps.json
+D:\DotNet\Git-project\ls10-readonly\bin\Debug\net5.0\ls10-readonly.runtimeconfig.json
+D:\DotNet\Git-project\ls10-readonly\bin\Debug\net5.0\ls10-readonly.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls10-readonly\bin\Debug\net5.0\ls10-readonly.dll
+D:\DotNet\Git-project\ls10-readonly\bin\Debug\net5.0\ref\ls10-readonly.dll
+D:\DotNet\Git-project\ls10-readonly\bin\Debug\net5.0\ls10-readonly.pdb
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.AssemblyInfo.cs
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.dll
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ref\ls10-readonly.dll
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.pdb
+D:\DotNet\Git-project\ls10-readonly\obj\Debug\net5.0\ls10-readonly.genruntimeconfig.cache
