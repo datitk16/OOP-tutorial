@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls11-KeThua\bin\Debug\net5.0\ls11-KeThua.exe
+D:\DotNet\Git-project\ls11-KeThua\bin\Debug\net5.0\ls11-KeThua.deps.json
+D:\DotNet\Git-project\ls11-KeThua\bin\Debug\net5.0\ls11-KeThua.runtimeconfig.json
+D:\DotNet\Git-project\ls11-KeThua\bin\Debug\net5.0\ls11-KeThua.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls11-KeThua\bin\Debug\net5.0\ls11-KeThua.dll
+D:\DotNet\Git-project\ls11-KeThua\bin\Debug\net5.0\ref\ls11-KeThua.dll
+D:\DotNet\Git-project\ls11-KeThua\bin\Debug\net5.0\ls11-KeThua.pdb
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.AssemblyInfo.cs
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.dll
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ref\ls11-KeThua.dll
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.pdb
+D:\DotNet\Git-project\ls11-KeThua\obj\Debug\net5.0\ls11-KeThua.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ls11-KeThua/1.0.0": {
+        "runtime": {
+          "ls11-KeThua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ls11-KeThua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
