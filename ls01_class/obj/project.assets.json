@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\Git-project\\class-demo\\class-demo.csproj",
-      "projectName": "class-demo",
-      "projectPath": "D:\\DotNet\\Git-project\\class-demo\\class-demo.csproj",
+      "projectUniqueName": "D:\\DotNet\\Git-project\\ls01_class\\ls01_class.csproj",
+      "projectName": "ls01_class",
+      "projectPath": "D:\\DotNet\\Git-project\\ls01_class\\ls01_class.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\Git-project\\class-demo\\obj\\",
+      "outputPath": "D:\\DotNet\\Git-project\\ls01_class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

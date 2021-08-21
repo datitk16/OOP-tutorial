@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\Git-project\\class-demo\\class-demo.csproj": {}
+    "D:\\DotNet\\Git-project\\ls03-partial-nested\\ls03-partial-nested.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\Git-project\\class-demo\\class-demo.csproj": {
+    "D:\\DotNet\\Git-project\\ls03-partial-nested\\ls03-partial-nested.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\Git-project\\class-demo\\class-demo.csproj",
-        "projectName": "class-demo",
-        "projectPath": "D:\\DotNet\\Git-project\\class-demo\\class-demo.csproj",
+        "projectUniqueName": "D:\\DotNet\\Git-project\\ls03-partial-nested\\ls03-partial-nested.csproj",
+        "projectName": "ls03-partial-nested",
+        "projectPath": "D:\\DotNet\\Git-project\\ls03-partial-nested\\ls03-partial-nested.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\Git-project\\class-demo\\obj\\",
+        "outputPath": "D:\\DotNet\\Git-project\\ls03-partial-nested\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

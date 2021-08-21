@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls02_namespace\bin\Debug\net5.0\ls02_namespace.exe
+D:\DotNet\Git-project\ls02_namespace\bin\Debug\net5.0\ls02_namespace.deps.json
+D:\DotNet\Git-project\ls02_namespace\bin\Debug\net5.0\ls02_namespace.runtimeconfig.json
+D:\DotNet\Git-project\ls02_namespace\bin\Debug\net5.0\ls02_namespace.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls02_namespace\bin\Debug\net5.0\ls02_namespace.dll
+D:\DotNet\Git-project\ls02_namespace\bin\Debug\net5.0\ref\ls02_namespace.dll
+D:\DotNet\Git-project\ls02_namespace\bin\Debug\net5.0\ls02_namespace.pdb
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.AssemblyInfo.cs
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.dll
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ref\ls02_namespace.dll
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.pdb
+D:\DotNet\Git-project\ls02_namespace\obj\Debug\net5.0\ls02_namespace.genruntimeconfig.cache

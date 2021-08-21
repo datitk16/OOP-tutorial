@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.AssemblyInfo.cs
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls03-partial-nested\bin\Debug\net5.0\ls03-partial-nested.exe
+D:\DotNet\Git-project\ls03-partial-nested\bin\Debug\net5.0\ls03-partial-nested.deps.json
+D:\DotNet\Git-project\ls03-partial-nested\bin\Debug\net5.0\ls03-partial-nested.runtimeconfig.json
+D:\DotNet\Git-project\ls03-partial-nested\bin\Debug\net5.0\ls03-partial-nested.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls03-partial-nested\bin\Debug\net5.0\ls03-partial-nested.dll
+D:\DotNet\Git-project\ls03-partial-nested\bin\Debug\net5.0\ref\ls03-partial-nested.dll
+D:\DotNet\Git-project\ls03-partial-nested\bin\Debug\net5.0\ls03-partial-nested.pdb
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.dll
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ref\ls03-partial-nested.dll
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.pdb
+D:\DotNet\Git-project\ls03-partial-nested\obj\Debug\net5.0\ls03-partial-nested.genruntimeconfig.cache
