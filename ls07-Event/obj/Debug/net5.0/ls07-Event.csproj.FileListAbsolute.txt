@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.AssemblyInfo.cs
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls07-Event\bin\Debug\net5.0\ls07-Event.exe
+D:\DotNet\Git-project\ls07-Event\bin\Debug\net5.0\ls07-Event.deps.json
+D:\DotNet\Git-project\ls07-Event\bin\Debug\net5.0\ls07-Event.runtimeconfig.json
+D:\DotNet\Git-project\ls07-Event\bin\Debug\net5.0\ls07-Event.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls07-Event\bin\Debug\net5.0\ls07-Event.dll
+D:\DotNet\Git-project\ls07-Event\bin\Debug\net5.0\ref\ls07-Event.dll
+D:\DotNet\Git-project\ls07-Event\bin\Debug\net5.0\ls07-Event.pdb
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.dll
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ref\ls07-Event.dll
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.pdb
+D:\DotNet\Git-project\ls07-Event\obj\Debug\net5.0\ls07-Event.genruntimeconfig.cache

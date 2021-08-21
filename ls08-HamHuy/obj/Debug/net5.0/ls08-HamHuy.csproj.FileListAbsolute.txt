@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.AssemblyInfo.cs
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls08-HamHuy\bin\Debug\net5.0\ls08-HamHuy.exe
+D:\DotNet\Git-project\ls08-HamHuy\bin\Debug\net5.0\ls08-HamHuy.deps.json
+D:\DotNet\Git-project\ls08-HamHuy\bin\Debug\net5.0\ls08-HamHuy.runtimeconfig.json
+D:\DotNet\Git-project\ls08-HamHuy\bin\Debug\net5.0\ls08-HamHuy.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls08-HamHuy\bin\Debug\net5.0\ls08-HamHuy.dll
+D:\DotNet\Git-project\ls08-HamHuy\bin\Debug\net5.0\ref\ls08-HamHuy.dll
+D:\DotNet\Git-project\ls08-HamHuy\bin\Debug\net5.0\ls08-HamHuy.pdb
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.dll
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ref\ls08-HamHuy.dll
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.pdb
+D:\DotNet\Git-project\ls08-HamHuy\obj\Debug\net5.0\ls08-HamHuy.genruntimeconfig.cache

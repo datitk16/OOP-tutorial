@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.AssemblyInfo.cs
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls09-static\bin\Debug\net5.0\ls09-static.exe
+D:\DotNet\Git-project\ls09-static\bin\Debug\net5.0\ls09-static.deps.json
+D:\DotNet\Git-project\ls09-static\bin\Debug\net5.0\ls09-static.runtimeconfig.json
+D:\DotNet\Git-project\ls09-static\bin\Debug\net5.0\ls09-static.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls09-static\bin\Debug\net5.0\ls09-static.dll
+D:\DotNet\Git-project\ls09-static\bin\Debug\net5.0\ref\ls09-static.dll
+D:\DotNet\Git-project\ls09-static\bin\Debug\net5.0\ls09-static.pdb
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.dll
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ref\ls09-static.dll
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.pdb
+D:\DotNet\Git-project\ls09-static\obj\Debug\net5.0\ls09-static.genruntimeconfig.cache
