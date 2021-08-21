@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\bin\Debug\net5.0\ls05-AnonymousType-DynamicType.exe
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\bin\Debug\net5.0\ls05-AnonymousType-DynamicType.deps.json
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\bin\Debug\net5.0\ls05-AnonymousType-DynamicType.runtimeconfig.json
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\bin\Debug\net5.0\ls05-AnonymousType-DynamicType.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\bin\Debug\net5.0\ls05-AnonymousType-DynamicType.dll
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\bin\Debug\net5.0\ref\ls05-AnonymousType-DynamicType.dll
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\bin\Debug\net5.0\ls05-AnonymousType-DynamicType.pdb
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.AssemblyInfo.cs
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.dll
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ref\ls05-AnonymousType-DynamicType.dll
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.pdb
+D:\DotNet\Git-project\ls05-AnonymousType-DynamicType\obj\Debug\net5.0\ls05-AnonymousType-DynamicType.genruntimeconfig.cache

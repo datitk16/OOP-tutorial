@@ -1,0 +1,16 @@
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.csprojAssemblyReference.cache
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.AssemblyInfoInputs.cache
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.AssemblyInfo.cs
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.csproj.CoreCompileInputs.cache
+D:\DotNet\Git-project\ls07-delegate\bin\Debug\net5.0\ls07-delegate.exe
+D:\DotNet\Git-project\ls07-delegate\bin\Debug\net5.0\ls07-delegate.deps.json
+D:\DotNet\Git-project\ls07-delegate\bin\Debug\net5.0\ls07-delegate.runtimeconfig.json
+D:\DotNet\Git-project\ls07-delegate\bin\Debug\net5.0\ls07-delegate.runtimeconfig.dev.json
+D:\DotNet\Git-project\ls07-delegate\bin\Debug\net5.0\ls07-delegate.dll
+D:\DotNet\Git-project\ls07-delegate\bin\Debug\net5.0\ref\ls07-delegate.dll
+D:\DotNet\Git-project\ls07-delegate\bin\Debug\net5.0\ls07-delegate.pdb
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.dll
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ref\ls07-delegate.dll
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.pdb
+D:\DotNet\Git-project\ls07-delegate\obj\Debug\net5.0\ls07-delegate.genruntimeconfig.cache
